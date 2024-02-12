@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="bfPortrait.png">
+	<!-- Created with Adobe Animate version 22.0.0.93 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Portrait Enter0000" x="2" y="2" width="368" height="413" frameX="-210" frameY="0" frameWidth="578" frameHeight="413"/>
+	<SubTexture name="Portrait Enter0001" x="2" y="2" width="368" height="413" frameX="-210" frameY="0" frameWidth="578" frameHeight="413"/>
+	<SubTexture name="Portrait Enter0002" x="372" y="2" width="367" height="413" frameX="-119" frameY="0" frameWidth="578" frameHeight="413"/>
+	<SubTexture name="Portrait Enter0003" x="372" y="2" width="367" height="413" frameX="-119" frameY="0" frameWidth="578" frameHeight="413"/>
+	<SubTexture name="Portrait Enter0004" x="2" y="417" width="368" height="413" frameX="-45" frameY="0" frameWidth="578" frameHeight="413"/>
+	<SubTexture name="Portrait Enter0005" x="2" y="417" width="368" height="413" frameX="-45" frameY="0" frameWidth="578" frameHeight="413"/>
+	<SubTexture name="Portrait Enter0006" x="372" y="417" width="367" height="413" frameX="0" frameY="0" frameWidth="578" frameHeight="413"/>
+	<SubTexture name="Portrait Enter0007" x="372" y="417" width="367" height="413" frameX="0" frameY="0" frameWidth="578" frameHeight="413"/>
+</TextureAtlas>
